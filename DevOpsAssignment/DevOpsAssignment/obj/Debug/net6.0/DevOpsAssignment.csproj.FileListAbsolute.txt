@@ -1,0 +1,15 @@
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\bin\Debug\net6.0\DevOpsAssignment.exe
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\bin\Debug\net6.0\DevOpsAssignment.deps.json
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\bin\Debug\net6.0\DevOpsAssignment.runtimeconfig.json
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\bin\Debug\net6.0\DevOpsAssignment.dll
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\bin\Debug\net6.0\DevOpsAssignment.pdb
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.csproj.AssemblyReference.cache
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.AssemblyInfoInputs.cache
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.AssemblyInfo.cs
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.dll
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\refint\DevOpsAssignment.dll
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.pdb
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\DevOpsAssignment.genruntimeconfig.cache
+C:\Users\nitishpandey\source\repos\DevOpsAssignment\DevOpsAssignment\obj\Debug\net6.0\ref\DevOpsAssignment.dll
